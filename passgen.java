@@ -1,7 +1,7 @@
 // package pass_gen;
 import java.util.Scanner;
 
-public class main{
+public class passgen{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter password length: ");

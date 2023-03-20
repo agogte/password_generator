@@ -1,5 +1,5 @@
 #!/bin/bash
 
-javac main.java
+javac passgen.java
 
-java main
+java passgen
